@@ -1,4 +1,3 @@
-# CAR-PRICE-Predictor-with-ML
 # Car Price Predictor with Machine Learning
 
 This repository contains a Python project that predicts car prices using machine learning. The project utilizes a dataset of car listings, cleans and preprocesses the data, and builds a linear regression model to predict car prices.
